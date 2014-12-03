@@ -15,6 +15,12 @@
             "email": "imaliy.filsh@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/darwinapps/gearman"
+        }
+    ],
     "require": {
         "yiisoft/yii2": "*",
         "sinergi/gearman": "dev-master"
